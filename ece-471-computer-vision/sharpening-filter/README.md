@@ -21,7 +21,11 @@ Run using a different image:
 
 ```sh
 python solution.py -i image.png
+```
+
 or
+
+```
 python solution.py --image image.png
 ```
 
